@@ -28,6 +28,10 @@
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/aronreisx/cgi-assessment?color=blueviolet">
   </a>
   </p>
+<br>
+<div align="center">
+  <img alt="CGI Mov" src="https://github.com/aronreisx/projects/blob/master/cgi/screen.png" width="75%">
+</div>
 
 
 ## Technologies used
